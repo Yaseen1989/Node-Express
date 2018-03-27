@@ -1,0 +1,12 @@
+{
+    "developer": [{
+        "title": "Front End Develoepr",
+        "name": "Yaseen A.",
+        "summery": "Building fullStack application using Javascript/ReactJS/AngularJS"
+    },
+    {
+        "title": "BackEnd Develoepr",
+        "name": "Yaseen AB.",
+        "summery": "Building fullStack application using NodeJS/Express"
+    }]
+}
